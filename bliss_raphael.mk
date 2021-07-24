@@ -34,3 +34,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # GApps
 TARGET_GAPPS_ARCH := arm64
+
+# FOD Animations
+TARGET_WANTS_FOD_ANIMATIONS := true
